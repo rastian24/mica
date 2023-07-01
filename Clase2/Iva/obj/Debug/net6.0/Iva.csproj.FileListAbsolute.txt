@@ -1,0 +1,15 @@
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.csproj.AssemblyReference.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.AssemblyInfoInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.AssemblyInfo.cs
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.csproj.CoreCompileInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\bin\Debug\net6.0\Iva.exe
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\bin\Debug\net6.0\Iva.deps.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\bin\Debug\net6.0\Iva.runtimeconfig.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\bin\Debug\net6.0\Iva.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\bin\Debug\net6.0\Iva.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\refint\Iva.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\Iva.genruntimeconfig.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\Iva\obj\Debug\net6.0\ref\Iva.dll

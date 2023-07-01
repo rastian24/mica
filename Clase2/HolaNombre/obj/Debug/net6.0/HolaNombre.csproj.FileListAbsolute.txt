@@ -1,0 +1,15 @@
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.csproj.AssemblyReference.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.AssemblyInfoInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.AssemblyInfo.cs
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.csproj.CoreCompileInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\bin\Debug\net6.0\HolaNombre.exe
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\bin\Debug\net6.0\HolaNombre.deps.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\bin\Debug\net6.0\HolaNombre.runtimeconfig.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\bin\Debug\net6.0\HolaNombre.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\bin\Debug\net6.0\HolaNombre.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\refint\HolaNombre.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\HolaNombre.genruntimeconfig.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\HolaNombre\obj\Debug\net6.0\ref\HolaNombre.dll

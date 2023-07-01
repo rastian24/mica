@@ -1,0 +1,15 @@
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.csproj.AssemblyReference.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.AssemblyInfoInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.AssemblyInfo.cs
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.csproj.CoreCompileInputs.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\bin\Debug\net6.0\QueNumero.exe
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\bin\Debug\net6.0\QueNumero.deps.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\bin\Debug\net6.0\QueNumero.runtimeconfig.json
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\bin\Debug\net6.0\QueNumero.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\bin\Debug\net6.0\QueNumero.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\refint\QueNumero.dll
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.pdb
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\QueNumero.genruntimeconfig.cache
+C:\Users\SebastianAdolfoRamos\csharp\Clase1\QueNumero\obj\Debug\net6.0\ref\QueNumero.dll
