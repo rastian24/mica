@@ -1,0 +1,15 @@
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.csproj.AssemblyReference.cache
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.GeneratedMSBuildEditorConfig.editorconfig
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.AssemblyInfoInputs.cache
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.AssemblyInfo.cs
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.csproj.CoreCompileInputs.cache
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/IndiceMasaCorporal
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/IndiceMasaCorporal.deps.json
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/IndiceMasaCorporal.runtimeconfig.json
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/IndiceMasaCorporal.dll
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/ref/IndiceMasaCorporal.dll
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/bin/Debug/net6.0/IndiceMasaCorporal.pdb
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.dll
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/ref/IndiceMasaCorporal.dll
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.pdb
+/home/rastian/csharp/mica/Clase2/IndiceMasaCorporal/obj/Debug/net6.0/IndiceMasaCorporal.genruntimeconfig.cache
